@@ -1,1 +1,1 @@
-[View homepage]([https://holendar.com](https://holiday-calendar.yoojisung.com)
+[View homepage](https://holiday-calendar.yoojisung.com)
